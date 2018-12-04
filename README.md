@@ -1,2 +1,2 @@
-# FirendFinder
+# FriendFinder
 A Sample Dating Site
