@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/gregvx/FriendFinder/issues"
   },
-  "homepage": "https://github.com/gregvx/FriendFinder#readme"
+  "homepage": "https://github.com/gregvx/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
 }
